@@ -1,0 +1,7 @@
+{
+  "thresholds": {
+    "manzana": 0.35,
+    "naranja": 0.35,
+    "platano": 0.35
+  }
+}
