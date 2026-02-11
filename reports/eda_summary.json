@@ -1,0 +1,16 @@
+{
+  "data_dir": "dataset_fruits",
+  "classes": [
+    "manzana",
+    "naranja",
+    "platano"
+  ],
+  "counts": {
+    "manzana": 40,
+    "naranja": 33,
+    "platano": 31
+  },
+  "total_images": 104,
+  "n_corrupt_images": 0,
+  "img_size_sample_n": 104
+}
